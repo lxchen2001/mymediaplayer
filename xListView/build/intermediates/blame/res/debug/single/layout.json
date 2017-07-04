@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\kuxuanyingying\\kuxuanyingying\\ShangGuiGu321Meida-master\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "G:\\kuxuanyingying\\kuxuanyingying\\ShangGuiGu321Meida-master\\xListView\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "G:\\kuxuanyingying\\kuxuanyingying\\ShangGuiGu321Meida-master\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "G:\\kuxuanyingying\\kuxuanyingying\\ShangGuiGu321Meida-master\\xListView\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "G:\\kuxuanyingying\\kuxuanyingying\\ShangGuiGu321Meida-master\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\kuxuanyingying\\kuxuanyingying\\ShangGuiGu321Meida-master\\xListView\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\kuxuanyingying\\kuxuanyingying\\ShangGuiGu321Meida-master\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "G:\\kuxuanyingying\\kuxuanyingying\\ShangGuiGu321Meida-master\\xListView\\src\\main\\res\\layout\\list_item.xml"
+    }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="55dp"
+android:background="#ff3097fd"
+android:gravity="center_vertical"
+    >
+<com.wsg.kuxuanmedia.view.TitleBar
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:background="#ff3097fd"
+    android:gravity="center_vertical"
+    >
+
+    <TextView
+        android:layout_width="100dp"
+        android:text="酷炫影音"
+        android:textSize="20sp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        />
+
+    <TextView
+        android:id="@+id/titlebar_tv_search"
+        android:layout_weight="1"
+        android:clickable="true"
+        android:layout_gravity="center"
+        android:layout_marginLeft="8dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="全网搜索"
+        android:textSize="14sp"
+        android:textColor="@drawable/tv_search_textcolor_selector"
+        android:drawableLeft="@drawable/tv_search_drawable_selector"
+        android:background="@drawable/tv_search_bg_selector"
+        android:drawablePadding="3dp"
+        />
+
+
+
+
+</com.wsg.kuxuanmedia.view.TitleBar>
+</RelativeLayout>
